@@ -42,13 +42,11 @@ Alongside that, I have a strong background in **Front-End Development** and **Wo
 
 ---
 
-### 🚀 Featured Projects
 
-- **[Bod Podcast](https://github.com/Mu-abdo/Bod-podcast)** — A modern React.js podcast web app with responsive UI, dynamic audio playback, and reusable components.
-- **[Mild Arabia](https://www.mildaarabia.com)** — Shopify e-commerce store customization for a baby products brand, including theme and UX improvements.
-- **[Dream Hills Real Estate](https://www.dreamhillseg.com)** — Corporate WordPress website with custom property listings and performance optimization.
-- **[TMX Reisen](https://www.tmxreisen.de)** — Multilingual WordPress travel agency website with custom booking layouts.
-- **[Omdah Marketing](https://omdah.net)** — Custom-coded WordPress marketing site optimized for speed and responsiveness.
+### 🚀 Portfolio
+
+[![Visit My Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-View_Portfolio-2ea44f?style=for-the-badge)](https://mu-abdo.github.io/mhmd-portfolio/)
+
 
 ---
 
